@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Engineering Hope"
-date:       2019-11-22 04:24:59 +0000
+date:       2019-11-21 23:25:00 -0500
 permalink:  engineering_hope
 ---
 
