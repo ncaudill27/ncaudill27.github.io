@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Building my first CLI project"
-date:       2019-12-08 05:51:19 +0000
+date:       2019-12-08 00:51:20 -0500
 permalink:  building_my_first_cli_project
 ---
 
@@ -9,8 +9,6 @@ ______________________________________________________________________________
 
 
 #### HollyPop the Hollywood Celebrity quiz game
-![](https://imgur.com/a/PrUhfOL)
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/PrUhfOL" data-context="false" ><a href="//imgur.com/a/PrUhfOL"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 For my initial project I wanted to build a CLI that was something a little with a little more flavor than your typical terminal experience. The idea for a game came from feeling the need to build something with "replay value". It's possible I got carried away with adding flair.
 
