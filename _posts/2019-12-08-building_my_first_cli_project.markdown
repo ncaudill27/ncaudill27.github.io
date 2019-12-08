@@ -8,19 +8,16 @@ permalink:  building_my_first_cli_project
 ______________________________________________________________________________
 
 
-## HollyPop the Hollywood Celebrity quiz game
+# HollyPop the Hollywood Celebrity quiz game
 
 For my initial project I wanted to build a CLI that was something a little with a little more flavor than your typical terminal experience. The idea for a game came from feeling the need to build something with "replay value". It's possible I got carried away with adding flair.
 
-### Languages or Skills Implemented
-Language: Ruby
-Gems: Bundler, Nokogiri, tty-prompt, paint
-Tools: Trello, VS Code, GitHub
-Implementation: Module for output decorating (including a monkey patch), error handling,
-
-Ruby, Bundler, Nokogiri, tty-prompt, paint, rake, minitest, Trello
-Ruby is the engine pushing the car here. In the process I learned how using bundler can kickstart a project
-### Main features
+# Languages or Skills Implemented
+* Language: Ruby
+* Gems: Bundler, Nokogiri, tty-prompt, paint
+* Tools: Trello, VS Code, GitHub
+* Implementation: Module for output decorating (including a monkey patch), error handling
+# Main features
 * Colorful, dynamic UI, (driven by a module)
 * Intuitive, flexible menus
 * Quiz game, (high score functionality)
