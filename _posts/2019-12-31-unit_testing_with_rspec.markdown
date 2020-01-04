@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Unit Testing With RSpec"
-date:       2019-12-31 19:36:24 +0000
+date:       2019-12-31 14:36:25 -0500
 permalink:  unit_testing_with_rspec
 ---
 
@@ -21,7 +21,7 @@ The service industry has left me with a more complete toobox than I realized. Wh
 
 Like with anything new. The first step proved to be the hardest. Wait, nevermind, `rspec --init` does that for you. Well, that was easy, but writing the tests is definitely going to be more complicated right? [Less than 3 minutes of video](https://rspec.info/) prove otherwise. As with anything practice makes perfect. However, one thing we Flatiron students don't have to worry about is having to find a variety of specs to refer to.
 
-As mentioned `rspec --init` does a lot of the work for you. The rest is simply requiring the files needed with is easily done through an `enviroment.rb` file. Maybe with a require_all gem if needed. So, slowly but surely I began to put together some unit tests and have them run against code I had built. Doing my best to think about possible edge cases and boundaries.
+As mentioned `rspec --init` does a lot of the work for you. The rest is simply requiring the files needed with is easily done through an `environment.rb` file. Maybe with a require_all gem if needed. So, slowly but surely I began to put together some unit tests and have them run against code I had built. Doing my best to think about possible edge cases and boundaries.
 
 Structuring the specs and adding context is as simple as keeping track of different levels of nesting. With your inner-most blocks doing the bulk of the work. While I'm sure specs can become quite nuanced, the work we've been shown at Flatiron shows that basic funtionality is easily reached. Referencing old labs and some [documentation](https://rubydoc.info/gems/rspec-expectations/RSpec/Matchers) relieved a lot of my uncertainty.
 
