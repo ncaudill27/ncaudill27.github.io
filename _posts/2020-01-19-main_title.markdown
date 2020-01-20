@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "Main Title"
-date:       2020-01-20 04:29:25 +0000
+title:      "Sinatra & Dragons"
+date:       2020-01-19 23:29:26 -0500
 permalink:  main_title
 ---
 
