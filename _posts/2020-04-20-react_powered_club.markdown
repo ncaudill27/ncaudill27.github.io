@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "React Powered Club"
-date:       2020-04-20 07:28:15 +0000
+date:       2020-04-20 03:28:16 -0400
 permalink:  react_powered_club
 ---
 
@@ -85,7 +85,7 @@ These are some of the resources I found most helpful.
 
 [A good example of the opposing side](https://dev.to/rdegges/please-stop-using-local-storage-1i04) and why *not* to use JWT.
 
-My go to. [A thorough approach to one implementation] of tokens. Which I just now realize was also written by a Flatiron coach, Reinald Reynoso.
+My go to. [A thorough approach to one implementation](https://levelup.gitconnected.com/jwt-auth-in-a-react-rails-app-8a7e6ba1ac0) of tokens. Which I just now realize was also written by a Flatiron coach, Reinald Reynoso.
 
 Finally, the readme files for the [JWT](https://github.com/jwt/ruby-jwt) and [JSON Web Token](https://github.com/garyf/json_web_token) gems.
 
